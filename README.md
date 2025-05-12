@@ -6,10 +6,10 @@ Optimisation du portfolio
 
 ## Actions à mener
     1. Audit
-    2. Débogage
+    2. Débogage et sémantique
     3. Accessibilité
     4. Performances
-    5. SEO
+    5. SEO et réseaux sociaux
     6. Rapport d'intervention
 
 ## Résultats obtenus
