@@ -1,11 +1,15 @@
-body {
-  max-width: 1920px;
-  margin: auto;
-}
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Spectral:ital,wght@0,400;1,300;1,400;1,800&display=swap');
+
 * {
   font-family: 'Inter';
   font-style: normal;
 }
+
+body {
+  max-width: 1920px;
+  margin: auto;
+}
+
 .top-header {
   background-color: white;
   position: sticky;
@@ -97,7 +101,6 @@ body {
 .title {
   text-align: center;
   padding-block: 2em;
-  font-size: calc(1.3rem + 0.6vw);
 }
 .gallery .nav {
   justify-content: center;
@@ -105,7 +108,8 @@ body {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #beb45a;
+  /* background-color: #beb45a; */
+  background-color: #000;
   border-radius: 0;
 }
 .nav-pills .nav-link {
