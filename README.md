@@ -1,10 +1,13 @@
 # Nina Carducci - Photographe professionnelle
+
 OpenClassRooms - Parcours intégrateur - Projet 8
 
-## Obectifs
+## Objectifs
+
 Optimisation du portfolio
 
 ## Actions à mener
+
     1. Audit
     2. Débogage et sémantique
     3. Accessibilité
@@ -13,7 +16,9 @@ Optimisation du portfolio
     6. Rapport d'intervention
 
 ## Résultats obtenus
+
 Perfect ? (desktop + mobile)
 
 ## Rapport d'intervention
+
 Lien vers PDF
