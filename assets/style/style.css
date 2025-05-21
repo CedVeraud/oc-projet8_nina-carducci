@@ -46,6 +46,12 @@ body {
   width: 20px;
 }
 
+/* correction contraste bootstrap */
+.visually-hidden,
+.visually-hidden-focusable:not(:focus):not(:focus-within) {
+  color: #000 !important;
+}
+
 #about {
   display: flex;
   background-color: #f6d2b8;
@@ -73,6 +79,8 @@ body {
 
 .picture img {
   width: 100%;
+  object-fit: cover;
+  overflow: hidden;
 }
 #about-me {
   flex: 2;
@@ -95,7 +103,7 @@ body {
 }
 
 #gallery {
-  /*	min-height: 100vh; */
+  min-height: 100vh;
   margin: 0;
 }
 .title {
