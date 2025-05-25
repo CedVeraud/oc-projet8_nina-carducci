@@ -4,7 +4,7 @@ OpenClassRooms - Parcours intégrateur - Projet 8
 
 ## Objectifs
 
-Optimisation du portfolio
+Optimisation SEO du portfolio
 
 ## Actions à mener
 
@@ -17,7 +17,7 @@ Optimisation du portfolio
 
 ## Résultats obtenus
 
-Perfect ? (desktop + mobile)
+99 / 100 / 100 / 100
 
 ## Rapport d'intervention
 
