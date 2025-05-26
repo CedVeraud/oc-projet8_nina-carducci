@@ -15,9 +15,12 @@ Optimisation SEO du portfolio
     5. SEO et réseaux sociaux
     6. Rapport d'intervention
 
-## Résultats obtenus
+## Score obtenu sur Lighthouse
 
-99 / 100 / 100 / 100
+performances : 99
+Accessibilité : 100
+Bonnes pratiques : 100
+SEO : 100
 
 ## Rapport d'intervention
 
