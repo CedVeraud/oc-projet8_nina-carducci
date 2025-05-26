@@ -26,7 +26,7 @@ Accessibilité : 100
 Bonnes pratiques : 100
 SEO : 100
 
-## Rapport d'intervention
+## Rapports d'interventions
 
 PDF de la présentation technique complète :
 https://cedveraud.github.io/oc-projet8_nina-carducci/Rapport-technique-d-optimisation.pdf
