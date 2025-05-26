@@ -32,4 +32,4 @@ PDF de la présentation technique complète :
 https://cedveraud.github.io/oc-projet8_nina-carducci/Rapport-technique-d-optimisation.pdf
 
 PDF du rapport Lighthouse complet au 26 mai 2025 :
-https://cedveraud.github.io/oc-projet8_nina-carducci/Rapport_lighthouse_final_20250526.pdf
+https://cedveraud.github.io/oc-projet8_nina-carducci/Rapport_lighthouse_20250526.pdf
